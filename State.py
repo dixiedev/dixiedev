@@ -20,3 +20,14 @@ otherz
 """
 
 #json dump
+
+"""
+laws
+cost
+fees
+taxes
+incorp types
+legal dfs
+
+
+"""
