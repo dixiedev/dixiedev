@@ -16,17 +16,23 @@ State =
 ref site
 b-name
 
+
 otherz
 """
 
 #json dump
 
 """
-laws
-cost
-fees
-taxes
 incorp types
+
+cost
+
+fees
+
+taxes
+
+laws
+
 legal dfs
 
 
