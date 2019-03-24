@@ -20,12 +20,12 @@ b-name
 otherz
 """
 
-#json dump
+#json dump?
 
 """
-incorp types
+incorp types allowed LLC,Scorp,Ccorp,Patnership,LLP,...
 
-cost
+cost by type --as {dic} or [list]
 
 fees
 
