@@ -13,8 +13,12 @@ states = ["AL","GA","FL","MS","TN","KY"]
 
 """
 State = 
-ref site
-b-name
+ref site =
+b-name =
+
+cost = 
+
+time = 
 
 
 otherz
