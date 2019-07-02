@@ -1,6 +1,6 @@
 # dixiedev
 
->>> Southern Devel
+> Southern Devel
 
 
-AL,GA,FL,MS,TN,KY
+AL,GA,FL,MS,TN,KY,TX,SC,NC
