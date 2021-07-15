@@ -2,29 +2,23 @@
 
 # State
 
-
 # AL","GA","FL","MS","TN","KY
-
 states = ["AL","GA","FL","MS","TN","KY"]
-
 
 # make a dic  --> figure out what goes into
 
-
 """
 State = 
+
 ref site =
 b-name =
-
 cost = 
-
 time = 
-
 
 otherz
 """
 
-#json dump?
+# json dump?
 
 """
 incorp types allowed LLC,Scorp,Ccorp,Patnership,LLP,...
@@ -37,7 +31,5 @@ taxes
 
 laws
 
-legal dfs
-
-
+legal dfs\n
 """
